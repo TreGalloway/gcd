@@ -1,7 +1,7 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
-import { NavMenu } from '@/components/nav';
+import NavBar from '@/components/nav';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -15,7 +15,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 		<html lang="en">
 			s
 			<body className={inter.className}>
-				<NavMenu />
+				<NavBar />
 				{children}
 			</body>
 		</html>
