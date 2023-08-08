@@ -2,6 +2,9 @@
 import { useState } from 'react';
 import { Dialog } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import Featured from '@/components/featured';
+import CTA from '@/components/cta';
+import Testimonials from '@/components/testimonials';
 
 export default function Home() {
 	return (
@@ -126,6 +129,9 @@ export default function Home() {
 					</div>
 				</div>
 			</main>
+			<Featured />
+			<Testimonials />
+			<CTA />
 		</div>
 	);
 }
