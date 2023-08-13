@@ -14,8 +14,8 @@ import { ChevronDownIcon, PhoneIcon, EyeIcon } from '@heroicons/react/20/solid';
 
 const services = [
 	{
-		name: 'Analytics',
-		description: 'Get a better understanding of your traffic',
+		name: 'Parties',
+		description: 'Lorem ipsum',
 		href: '#',
 		icon: ChartPieIcon
 	},
@@ -32,14 +32,14 @@ const services = [
 		icon: FingerPrintIcon
 	},
 	{
-		name: 'Integrations',
-		description: 'Connect with third-party tools',
+		name: 'Wedings',
+		description: 'Lorem ipsum',
 		href: '#',
 		icon: SquaresPlusIcon
 	},
 	{
-		name: 'Automations',
-		description: 'Build strategic funnels that will convert',
+		name: 'Repasts',
+		description: 'Lorem ipsum',
 		href: '#',
 		icon: ArrowPathIcon
 	}
