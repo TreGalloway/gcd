@@ -64,7 +64,7 @@ export default function NavBar() {
 			>
 				<div className="flex lg:flex-1">
 					<a href="#" className="-m-1.5 p-1.5">
-						<span className="sr-only">G's Drizzle</span>
+						<span className="sr-only">G’s Drizzle</span>
 						<img
 							className="w-auto h-8"
 							src="https://tailwindui.com/img/logos/mark.svg?color=rose&shade=600"
