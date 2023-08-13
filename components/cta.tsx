@@ -22,7 +22,8 @@ export default function CTA() {
 								href="#"
 								className="rounded-md bg-rose-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-rose-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 							>
-								Join our team <span aria-hidden="true">&rarr;</span>
+								Book Appointment
+								<span aria-hidden="true">&rarr;</span>
 							</a>
 						</div>
 					</div>
